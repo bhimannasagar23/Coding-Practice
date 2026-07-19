@@ -42,7 +42,7 @@ flag ∈ {True, False}
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-07-19T08:01:05.917Z  
+**Submitted:** 2026-07-19T08:02:30.508Z  
 
 ```py
 class Solution:
