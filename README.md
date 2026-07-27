@@ -6,7 +6,7 @@
 ![Streak](https://img.shields.io/badge/Streak-2_days-orange?style=for-the-badge)
 ![Last Synced](https://img.shields.io/badge/Last_Synced-7--20--2026-green?style=for-the-badge)
 
-> 🚀 Auto-synced by [**PushMyCode**](https://github.com/PushMyCode-HQ) — solve it, forget it, it's on GitHub.
+> Small Steps Every Day
 
 </div>
 
@@ -30,11 +30,11 @@
 ## 📂 Repository Structure
 
 ```
-📦 coding-solutions/
+📦 coding-practice/
 ├── leetcode/
-│   ├── easy/
-│   ├── medium/
-│   └── hard/
+│   ├── python/
+│   ├── C/
+│   └── C++/
 ├── hackerrank/
 ├── codechef/
 └── gfg/
@@ -44,6 +44,6 @@
 
 <div align="center">
 
-*Last updated: 2026-07-19* · Powered by [**PushMyCode**](https://github.com/PushMyCode-HQ)
+*Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle.
 
 </div>
