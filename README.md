@@ -43,6 +43,7 @@
 
 <div align="center">
 
-*📚 A Repository of Growth, Not Just Code.
+*Code. Commit. Grow
+...because every commit tells a story.
 
 </div>
